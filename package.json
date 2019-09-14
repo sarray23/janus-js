@@ -1,0 +1,11 @@
+{
+  "name": "janus-js",
+  "version": "1.0.0",
+  "description": "Janus.js es5 moudle",
+  "main": "janus.es.js",
+  "repository": "git@github.com:packcom/janus-js.git",
+  "license": "Unlicense",
+  "dependencies": {
+    "webrtc-adapter": "^7.3.0"
+  }
+}
