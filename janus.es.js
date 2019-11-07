@@ -532,7 +532,7 @@ function Janus(gatewayCallbacks) {
 	// overrides for default maxBitrate values for simulcasting
 	function getMaxBitrates(simulcastMaxBitrates) {
 		var maxBitrates = {
-			high: 900000,
+			high: 800000,
 			medium: 300000,
 			low: 100000,
 		};
